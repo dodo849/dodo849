@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leedoyeon849)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="color="lightgray";">
+<pre>
 ## ✔️ Tech
 🔘 previous
 - front-end : javascript, j-Query
 - <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
 - back-end : Django, php
+</pre>
 </div>
   
 🔘 now
