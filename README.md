@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/>
 🔘 now
-- **mobile : <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=FFFFFF"/>**<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>**
+
+- **mobile :** <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=FFFFFF"/>**<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
 
 ## ✔️ Interest
 - Android
