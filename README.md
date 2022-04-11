@@ -19,16 +19,15 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leedoyeon849)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="color=#FAFAFA; border-radius=20px;">
-<pre>
-<h3> ✔️ Tech </h3>
-🔘 previous
-- front-end : javascript, j-Query
-- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
+<h2> ✔️ Tech </h2>
+<h3> 🔘 previous <h3>
+<ul> front-end : <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
+  </ul>
 - back-end : Django, php
   
 🔘 now
 <bold> mobile : iOS(swift) </bold>
-</pre>
 </div>
 
 
