@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 🔘 previous
 - front-end : javascript, j-Query
 - back-end : Django, php
+
 🔘 now
 - **mobile : iOS(swift)**
 
