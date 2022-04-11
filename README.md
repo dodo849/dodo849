@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leedoyeon849)](https://github.com/anuraghazra/github-readme-stats)
 
+## ✔️ Major
+🖥 Computer Science
+
 ## ✔️ Tech
 🔘 previous
 - front-end : <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
@@ -29,9 +32,9 @@ Here are some ideas to get you started:
 ## ✔️ Interest
 Android · iOS - Swift UI · AI - Core ML · Agile Scrum · git flow · 코드 가독성 향상 · 개발 문서화
 
-### Contact
-
-
-
 ---
+
+### Contact
+✉️ email : do83430208@gmail.com
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23888888&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
