@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 <div style="color=#FAFAFA; border-radius=20px;">
   <h2> ✔️ Tech </h2>
   <h4> 🔘 previous </h4>
-  <ul style="color: gray;"> front-end : <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
-    </ul>
-  <ul style="color: gray;"> back-end : Django, php</ul>
+  <ul>
+    <li style="color: gray;"> front-end : <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
+      </li>
+    <li style="color: gray;"> back-end : Django, php</li>
+  </ul>
 
    <h3> 🔘 now </h3>
   <p> <bold> mobile : iOS(swift) </bold> </p>
