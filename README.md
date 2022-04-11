@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# LEE DO YEON
+# 🍦 LEE DO YEON 🍦 
 📢 안녕하세요, 모바일 개발자를 준비중인 이도연입니다.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leedoyeon849)](https://github.com/anuraghazra/github-readme-stats)
