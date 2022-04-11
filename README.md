@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leedoyeon849)](https://github.com/anuraghazra/github-readme-stats)
 
-<div color="red">
+<div style="backgroundcolor="lightgray;">
 ## ✔️ Tech
 🔘 previous
 - front-end : javascript, j-Query
