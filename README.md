@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 -->
 
 # LEE DO YEON
-📢 안녕하세요, 모바일 개발 중인 이도연입니다.
+📢 안녕하세요, 모바일 개발자를 준비중인 이도연입니다.
 
-## Tech
-- front-end : javascript, j-query
+## ✔️ Tech
+🔘 previous
+- front-end : javascript, j-Query
 - back-end : Django, php
-**- mobile : iOS(swift) (now)**
+🔘 now
+- **mobile : iOS(swift)**
 
-## Interest
+## ✔️ Interest
 - Android
 - iOS - Swift UI
 - AI - Core ML
