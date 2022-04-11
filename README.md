@@ -20,16 +20,17 @@ Here are some ideas to get you started:
 
 <div style="color="lightgray";">
 <pre>
-## ✔️ Tech
+<h3> ✔️ Tech </h3>
 🔘 previous
 - front-end : javascript, j-Query
 - <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
 - back-end : Django, php
-</pre>
-</div>
   
 🔘 now
-- **mobile : iOS(swift)**
+<bold> mobile : iOS(swift) </bold>
+</pre>
+</div>
+
 
 ## ✔️ Interest
 - Android
