@@ -35,7 +35,7 @@ Android · iOS - Swift UI · AI - Core ML · Agile Scrum · git flow · 코드 �
 ## ❹ Experience
 - 🦁 멋쟁이 사자처럼 대학 9기 수료 
 - 🦁 멋쟁이 사자처럼 대학 10기 운영진 (ing)
-- 👩‍💻 소프트웨어 마에스틀 13기 (ing)
+- 👩‍💻 소프트웨어 마에스트로 13기 (ing)
 
 ---
 
