@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leedoyeon849)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="background-color=#FAFAFA; border-radius=20px;">
-  <h2> ✔️ Tech </h2>
+  ## ✔️ Tech
   <h4> 🔘 previous </h4>
   <ul>
     <li style="color: gray;"> front-end : <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/>
