@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## ✔️ Tech
 🔘 previous
 - front-end : javascript, j-Query
+- <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=#F7DF1E"/>
 - back-end : Django, php
 
 🔘 now
