@@ -39,9 +39,13 @@ Android · iOS - Swift UI · Agile Scrum · git flow · 코드 가독성 향상 
 - 🍎 코더스하이 iOS 심화과정 (2022.01 ~ 2022.04)
 - 👩‍💻 소프트웨어 마에스트로 13기 (2022 ~ ing)
 
+## ❺ Blog
+- tstory: https://dokit.tistory.com/
 ---
 
 ### Contact
 ✉️ email : do83430208@gmail.com
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23888888&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
