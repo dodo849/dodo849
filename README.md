@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/>
 
 ## ❸ Interest
-Android · iOS - Swift UI · Agile Scrum · git flow · 코드 가독성 향상 · 개발 문서화 · CleanCode
+~~Android · iOS - Swift UI · Agile Scrum · git flow · 코드 가독성 향상 · 개발 문서화 · CleanCode~~
+MVVM · Clean Architecture · Ribs · RxSwift · Combine · Web App · Refactoring
 
 ## ❹ Record
 - 🦁 멋쟁이 사자처럼 대학 9기 수료 (2021)
