@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## ❸ Interest
 ~~Android · iOS - Swift UI · Agile Scrum · git flow · 코드 가독성 향상 · 개발 문서화 · CleanCode~~
 
-MVVM · Clean Architecture · Ribs · RxSwift · Combine · Web App · Refactoring
+MVVM · Clean Architecture · RxSwift · Combine · Web App · Refactoring
 
 ## ❹ Record
 - 🦁 멋쟁이 사자처럼 대학 9기 수료 (2021)
