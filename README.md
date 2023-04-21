@@ -37,7 +37,7 @@ MVVM · Clean Architecture · RxSwift · Combine · Web App · Refactoring
 
 ## ❹ Record
 - 🦁 멋쟁이 사자처럼 대학 9기 수료 (2021)
-- 🦁 멋쟁이 사자처럼 대학 10기 운영진 (2022 ~ ing)
+- 🦁 멋쟁이 사자처럼 대학 10기 운영진 (2022)
 - 🍎 코더스하이 iOS 심화과정 (2022.01 ~ 2022.04)
 - 👩‍💻 소프트웨어 마에스트로 13기 수료 (2022)
 
