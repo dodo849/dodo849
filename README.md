@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 🍦 LEE DO YEON 🍦 
-📢 안녕하세요, 모바일 개발자를 준비중인 이도연입니다.
+📢 안녕하세요, **iOS 개발자**를 준비중인 이도연입니다.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leedoyeon849)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ~~MVVM · Clean Architecture · RxSwift · Combine · Web App · Refactoring ~~
 
-MVI(TCA, ReactorKit) · DI · Functional Reactive Programming · Concurrency · Test Code
+MVI(TCA, ReactorKit) · DI · Functional Reactive Programming · Concurrency · Test Code · React/Flux
 
 ## ❹ Record
 - 🦁 멋쟁이 사자처럼 대학 9기 수료 (2021)
