@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - **mobile :** <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/>
 
-## ❸ Interest
+## Interest
 ~~Android · iOS - Swift UI · Agile Scrum · git flow · 코드 가독성 향상 · 개발 문서화 · CleanCode~~
 
 ~~MVVM · Clean Architecture · RxSwift · Combine · Web App · Refactoring~~
