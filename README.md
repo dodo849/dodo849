@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leedoyeon849)](https://github.com/anuraghazra/github-readme-stats)
 
-## ❶ Major
+## Major
 🖥 Computer Science
 
-## ❷ Tech
+## Tech
 ☑️ previous
 - front-end : <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF"/>
 - back-end : <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/>
@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 
 MVI(TCA, ReactorKit) · DI · Functional Reactive Programming · Concurrency · Test Code · React/Flux
 
-## ❹ Record
+## Record
 - 🦁 멋쟁이 사자처럼 대학 9기 수료 (2021)
 - 🦁 멋쟁이 사자처럼 대학 10기 운영진 (2022)
 - 🍎 코더스하이 iOS 심화과정 (2022.01 ~ 2022.04)
 - 👩‍💻 소프트웨어 마에스트로 13기 수료 (2022)
 
-## ❺ Blog
+## Blog
 - tstory: https://dokit.tistory.com/
 ---
 
