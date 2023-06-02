@@ -42,6 +42,7 @@ MVI(TCA, ReactorKit) · DI · Functional Reactive Programming · Concurrency · 
 - 🦁 멋쟁이 사자처럼 대학 10기 운영진 (2022)
 - 🍎 코더스하이 iOS 심화과정 (2022.01 ~ 2022.04)
 - 👩‍💻 소프트웨어 마에스트로 13기 수료 (2022)
+- 💯 TOPCIT 617점(수준3) (2022)
 
 ## Blog
 - tstory: https://dokit.tistory.com/
