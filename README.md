@@ -24,13 +24,13 @@ Computer Science
 ## Tech
 previous |
 ---|
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/> | 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/> | 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/> |
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/>
 
 **now** |
 ---|
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/> |
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF"/>
 
 
