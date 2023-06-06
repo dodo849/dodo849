@@ -50,6 +50,8 @@ Content | Date
 👩‍💻 소프트웨어 마에스트로 13기 수료 | 2022
 💯 TOPCIT 617점(수준3, 여성기업인상 수상) | 2022
 
+❤️ Opensource: https://github.com/leedoyeon849/StackCoordinator
+
 
 ## Blog
 - tstory: https://dokit.tistory.com/
