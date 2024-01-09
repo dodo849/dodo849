@@ -34,13 +34,6 @@ previous |
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF"/>
 
 
-## Interest
-~~Android · iOS - Swift UI · Agile Scrum · git flow · 코드 가독성 향상 · 개발 문서화 · CleanCode~~
-
-~~MVVM · Clean Architecture · RxSwift · Combine · Web App · Refactoring~~
-
-MVI(TCA, ReactorKit) · DI · Functional Reactive Programming · Concurrency · Test Code · React/Flux
-
 ## Experience
 Content | Date
 :---:|:---:
