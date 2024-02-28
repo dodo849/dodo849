@@ -48,7 +48,7 @@ Content | Date
 <br><br>
 
 ### Portfolio
-https://drive.google.com/file/d/12upIg-mv70t46j2hMD73N_5OuTA9MXZt/view?usp=share_link
+🔗: https://drive.google.com/file/d/12upIg-mv70t46j2hMD73N_5OuTA9MXZt/view?usp=share_link
 <br><br>
 
 ### Contact
