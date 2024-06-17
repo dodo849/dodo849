@@ -34,7 +34,7 @@ Content | Date
 ✡️ CMC(iOS) | 2024.05 ~ ing
 
 
-### Libraries
+### Open source libraries
 - SwiftUI navigation library [StackCoordinator](https://github.com/dodo849/StackCoordinator)
 - Stomp-based socket communication library [Stomper](https://github.com/dodo849/Stomper)
 - UIKit/SwiftUI design system [DesignSystemBook](https://github.com/dodo849/DesignSystemBookApp)
