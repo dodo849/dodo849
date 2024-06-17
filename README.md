@@ -13,21 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# DO YEON LEE 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dodo849&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+# DO YEON LEE  
+I'm iOS developer 🍎
+<br>
 
 ### Major
 Computer Science
-<br><br>
-
-### Tech
-. |
----|
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/>
 <br>
 
 ### Experience
@@ -40,19 +31,17 @@ Content | Date
 💯 TOPCIT 617점 | 2022.11
 🩺 인턴(솔닥-비대면진료) | 2023.07
 ❇️ UMC(iOS) | 2023.09 ~ 2024.02
+✡️ CMC(iOS) | 2024.05 ~ ing
 
-<br>
 
-### Blog
-📝 tstory: https://dokit.tistory.com/
-<br><br>
+### Libraries
+- SwiftUI navigation library [StackCoordinator](https://github.com/dodo849/StackCoordinator)
+- Stomp-based socket communication library [Stomper](https://github.com/dodo849/Stomper)
+- UIKit/SwiftUI design system [DesignSystemBook](https://github.com/dodo849/DesignSystemBookApp)
 
-### Portfolio
-🔗: https://drive.google.com/file/d/12upIg-mv70t46j2hMD73N_5OuTA9MXZt/view?usp=share_link
-<br><br>
-
-### Contact
-✉️ email : do83430208@gmail.com
+---
+- **Blog**: https://dokit.tistory.com/
+- **Email** : do83430208@gmail.com
 <br><br>
 
 
