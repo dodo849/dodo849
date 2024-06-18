@@ -33,6 +33,8 @@ Content | Date
 ❇️ UMC(iOS) | 2023.09 ~ 2024.02
 ✡️ CMC(iOS) | 2024.05 ~ ing
 
+### App store
+- **☕️ Beany** 간편하고 즐거운 UI의 타이머입니다  [download](https://apps.apple.com/kr/app/beany-coffee-timer/id6502908127?l=en-GB)
 
 ### Libraries
 - SwiftUI navigation library [StackCoordinator](https://github.com/dodo849/StackCoordinator)
